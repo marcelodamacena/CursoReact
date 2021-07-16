@@ -1,3 +1,3 @@
 # Avaliação do CursoReact
 
-![screenshot]
+[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
